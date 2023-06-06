@@ -16,4 +16,4 @@ A neural network model is used for the iris classification task. The model is im
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sriharikg2003/LGMVIP--DataScience-1.git
+   git clone https://github.com/sriharikg2003/LGMVIP-DataScience-1.git
